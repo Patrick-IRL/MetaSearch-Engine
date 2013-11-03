@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_survey_results" value="name:id;datatype:int,name:name;datatype:string,name:email;datatype:string,name:datesubmitted;datatype:date,name:fav_se;datatype:string,name:Q1;datatype:int,name:Q2;datatype:int,name:Q3;datatype:int,name:Q4;datatype:int,name:Q5;datatype:int,name:Q6;datatype:int,name:Q7;datatype:int,name:comments;datatype:string" />
+</info>
